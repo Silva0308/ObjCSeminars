@@ -11,6 +11,7 @@
 		524CCADC2A7FBD4200F97E73 /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 524CCADB2A7FBD4200F97E73 /* Calculator.m */; };
 		524CCADF2A7FC02000F97E73 /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 524CCADE2A7FC02000F97E73 /* Square.m */; };
 		524CCAE22A7FC0E900F97E73 /* Logarifm.m in Sources */ = {isa = PBXBuildFile; fileRef = 524CCAE12A7FC0E900F97E73 /* Logarifm.m */; };
+		524CCAE52A7FC44800F97E73 /* ThreeNumbers.m in Sources */ = {isa = PBXBuildFile; fileRef = 524CCAE42A7FC44800F97E73 /* ThreeNumbers.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		524CCADE2A7FC02000F97E73 /* Square.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Square.m; sourceTree = "<group>"; };
 		524CCAE02A7FC0E900F97E73 /* Logarifm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Logarifm.h; sourceTree = "<group>"; };
 		524CCAE12A7FC0E900F97E73 /* Logarifm.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Logarifm.m; sourceTree = "<group>"; };
+		524CCAE32A7FC44800F97E73 /* ThreeNumbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeNumbers.h; sourceTree = "<group>"; };
+		524CCAE42A7FC44800F97E73 /* ThreeNumbers.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeNumbers.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,8 @@
 				524CCADD2A7FC02000F97E73 /* Square.h */,
 				524CCAE02A7FC0E900F97E73 /* Logarifm.h */,
 				524CCAE12A7FC0E900F97E73 /* Logarifm.m */,
+				524CCAE42A7FC44800F97E73 /* ThreeNumbers.m */,
+				524CCAE32A7FC44800F97E73 /* ThreeNumbers.h */,
 			);
 			path = Seminar1HW;
 			sourceTree = "<group>";
@@ -138,6 +143,7 @@
 				524CCAD22A7FB5EC00F97E73 /* main.m in Sources */,
 				524CCAE22A7FC0E900F97E73 /* Logarifm.m in Sources */,
 				524CCADC2A7FBD4200F97E73 /* Calculator.m in Sources */,
+				524CCAE52A7FC44800F97E73 /* ThreeNumbers.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
